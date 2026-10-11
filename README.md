@@ -4,7 +4,7 @@ Business transformation and AI adoption professional learning to turn ideas into
 
 ## About Me
 
-My work connects people, processes, and technology. I have experience driving process enhancements, partnering with stakeholders, evaluating AI use cases, and helping colleagues build confidence using LLM tools.
+My work connects people, processes, and technology. I have experience driving process enhancements, presenting automation solutions, partnering with stakeholders both senior level & middle line managers, discovering & evaluating AI use cases, and helping colleagues build confidence using LLM tools, Agents/Assistants, GitHub, GitHub Co-Pilot.
 
 I’m expanding my programming skills so I can move from identifying opportunities to building working solutions.
 
